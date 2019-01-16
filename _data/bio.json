@@ -18,25 +18,29 @@
       {
         "network": "github",
         "username": "JeffreyYu1",
-        "url": ""
+        "url": "https://jeffreyyu1.github.io/"
       },
       {
         "network": "linkedin",
         "username": "Jeffrey Yu",
         "url": "https://www.linkedin.com/in/jeffreyyu-81714b178/"
+      },
+      {
+        "network": "techhui",
+        "usetname": "Jeffrey Yu",
+        "url": "http://www.techhui.com/profile/JeffreyYu"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software engineer",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "game",
       "keywords": [
       ]
     },
