@@ -8,6 +8,9 @@ labels:
   - Learning
 ---
 
+<img class="ui medium right floated image" src="../images/java-vs-javascript.png">
+
+
 ## Javascript Reflection 
    Currently, I am learning Javascript in my ICS 314 class at Univerisity of Manoa. Before this class, I had no prior knowledge to JavaScript and the only language that I have learned/practiced was Java. One could say that Java and Javascript are very similar and I can see it. Javascript is the distant cousin of Java and both of both are Object Oriented Programming languages (OOP). With that many of the language of Java can be seen when coding in Javascript. Since I learned Java beforehand, learning the basics of JavaScript went pretty smoothly to me but it is a known concept that JavaScript is more easily understood than that of Java. 
 
