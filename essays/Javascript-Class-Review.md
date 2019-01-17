@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium right floated image" src="../images/java-vs-javascript.png">
+<img class="ui small right floated image" src="../images/java-vs-javascript.png">
 
 
 ## Javascript Reflection 
