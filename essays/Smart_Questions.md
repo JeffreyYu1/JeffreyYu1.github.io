@@ -13,4 +13,4 @@ labels:
    A smart question is also not just a simple, one line question like "How do I do this?" or "This doesn't work, I need help."  One would need to explain what methods were done in solving the problem. Explaining the steps that were done in solving the problem will let respondent rule out solutions in solving the problem and doesn't waste anyones time. A question that says "I have X problem, I have done Y steps already but still couldn't get the answer." is more appelling for respondents to answer. One should also not ask the question to a respondent/a community of respondents that have nothing to do with the topic. This is going to be a waste of time and no answers might be given. 
 
 ## Real Life Example of Smart Question
-  https://stackoverflow.com/questions/44649988/spring-boot-actuator-health-is-not-working
+ [Here](https://stackoverflow.com/questions/44649988/spring-boot-actuator-health-is-not-working) is a link to a smart question that was found in StackOverflow
