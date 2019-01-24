@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Dealing With Questions, the Right Way. 
-date: 2019-01-233
+date: 2019-01-23
 labels:
   - Q&A 
   - Learning
