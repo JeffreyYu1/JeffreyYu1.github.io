@@ -13,10 +13,9 @@ summary: Teams of Two or more compete against other schools in selected topics.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Trophy.jpg">
+  <img class="ui image" src="../images/Medal.jpeg">
+  <img class="ui image" src="../images/Bridge.jpeg">
 </div>
 
 The Science Olympiad is an event/competition that is held every year where highschools and middleschools compete against each other. Each school has a team of unlimited students that select a topic that they want to compete in. The catch is that each student that decides to compete must selected three topics to compete in. Each topic they choose to compete must have two man teams competing in it. The official Science Olympiad website will give you what you will need to learn for each topic at the start of every season. It is up to your team to study up on that material until the day of the competition. The competition mainly consists of an hour long test on you topic or a hands on activity/ experiment on your topic. In every season, there will be a total of two or three competitions, (third competition is for states, assuming you place first in the first two). The first competition is called the Invitationals. Here schools are practicing what it is like competing against each other with actual places on the line. The second (more important) competition is called the Regionals. Here is where they will decide which school with be competing in the States competiton(if you get first place). 
