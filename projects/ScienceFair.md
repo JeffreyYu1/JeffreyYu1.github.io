@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/ScienceFair.jpg
 title: Science Fair
 permalink: projects/Science Fair
 # All dates must be YYYY-MM-DD format!
@@ -14,10 +14,8 @@ summary: Teams of two do research on your own topic.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/BrainWars.jpg">
+  <img class="ui image" src="../images/ScienceBoard.jpg">
 </div>
 
 Every year, the Science Fair committee holds a fair for mostly all highschools and middleschools across the state. Here students would form a team of two and think of their own unique research topic. Once they thought of a research topic the do an experiement according to that topic. They would first do a hypothesis of what the outcome of the experiement will be. After that, an experiement is done to try and prove that hypothesis. You would then state the results and see if your hypothesis is correct. Explanation on to why the results turn out the way they did is needed after. After all that is done, you would have to put all that information on a board and present it to judges that would like to view your project. Depending on what the judges like, you move on to compete with other highschools and then states. 
