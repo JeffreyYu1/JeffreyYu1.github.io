@@ -12,10 +12,10 @@ labels:
 summary: Teams of Two or more compete against other schools in selected topics.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/Trophy.jpg">
   <img class="ui image" src="../images/Medal.jpeg">
-  <img class="ui image" src="../imges/Bridge.jpeg">
+  <img class="ui image" src="../images/Bridge.jpeg">
 </div>
 
 
