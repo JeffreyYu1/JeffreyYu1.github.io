@@ -14,7 +14,7 @@ summary: Teams of Four compete against other schools in the topics of Economics.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Stock.jpg">
-  <img class="ui image" src="../images/Economics.jpg">
+  <img class="ui image" src="../images/Economics.png">
 </div>
 
 The Economics Challenge is a statewide competition where every highschool selects two teams of four students to represent them in the challenge. Leading up to the challenge, teams are expected to learn everything about Economics from Micro to Macro Economics. It is up to the team coach to decide how many days a week they wanna spend to study and test on the topics. When the day of the competition comes, students are to take two tests each of them an hour on Micro and Macro Economics. After totaling the scores, schools that made it to the top ten get to compete in the buzzer round. Here is a winner take all where a questioner gives two teams a question and whoever buzzes in and answer correctly gets the point. The team that wins the round moves up to challenge the next winner. First place winner here gets to represent the state in the countrywide competition. 
