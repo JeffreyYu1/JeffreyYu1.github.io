@@ -16,7 +16,6 @@ summary: Teams of Two or more compete against other schools in selected topics.
   <img class="ui image" src="../images/Trophy.jpg">
   <img class="ui image" src="../images/Medal.jpeg">
   <img class="ui image" src="../imges/Bridge.jpeg">
-
 </div>
 
 
