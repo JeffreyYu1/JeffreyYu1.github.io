@@ -2,7 +2,8 @@
   "basics": {
     "name": "Jeffrey Yu",
     "label": "Student",
-    "picture": "../images/Self.jpg"
+    "picture": "<img class="../images/Self.jpg">
+
     "email": "jdyu@hawaii.edu",
     "phone": "",
     "website": "",
