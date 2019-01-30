@@ -8,7 +8,7 @@ labels:
   - Goals
   - Learning
 ---
-<img class="ui small right floated image" src="../images/GoodQuestion.jpg">
+<img class="ui small right floated image" src="../images/LightBulb.png">
 
 ## My Interests 
    One of the main reasons as to why I wanted to go into the field of Computer Science is how that field can innovate and change our lifestyle. There are many creative opportunities that can happen when going into the field of Comupter Science. These opportunities can range from creating a video game that will be loved by many, to creating the algorithms that helps the journey into space. Many of these opportunities attract many people into the field and some of them attracted me. One of them would have to be creating video games. Ever since I was little, I loved to play video games. It was my escape world to where I could have fun. Because I loved to play, I started taking interests in how games were made. 
