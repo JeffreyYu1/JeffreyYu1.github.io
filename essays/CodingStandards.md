@@ -16,10 +16,7 @@ labels:
 
 <img class="ui small left floated image" src="../images/stackoverflow.jpg">
 
-## Real Life Example of A Smart Question
-   [Here](https://stackoverflow.com/questions/44649988/spring-boot-actuator-health-is-not-working) is a link to a smart question that was found in StackOverflow. Immediately, the questioner is very specific on what the problem is. He gives his code and explains the steps he did when coding it. He explains that he did this code with the guidance of a tutorial page and followed it. He gives the error message that popped up the moment he thinks his code breaks and explains what he had done to attempt to solve the problem. Here this person already meets all the criteria mentioned above and asks this question within a coding community website. With this being a smart questions, there are many different respondents that were willingly to explain the steps needed to solve the problem. The respondents shared which part of his code resulted in the error and solutions on how to fix it. 
+## My Personal Experience 
+   As of the date of this essay, I have been using the coding standard ESLint with IntelliJ. My first impressions with it is that it tells you a lot of errors ranging from this variable is never used to there should be a space after this letter. Following ESLint actually helped me fix my code and adding whats missing. This is another advantage to following coding standards, its that it can actually help you finish your code. Yes getting that greencheck mark (indicates that your code follows the correct standards) is a pain to get, but getting it is very useful for your code. By getting that checkmark, it means that your code is in its simplest form (meaning your code is in its shortest form) and it can be easily be readable. 
  
- <img class="ui small right floated image" src="../images/thumb.jpg">
 
-## Bottom Line?
-   Questions are asked to fulfill the curiosity of the mind or to solve a problem. The way one asks the question will is what you will get as your answer. A simple, not thought out question will result in answers that are short and often point out that the answer is there, you just didn't read. When a question is asked with the explanation of what you have tried to do, it makes respondents appreciate the questions and makes them happy enough to answer it. 
