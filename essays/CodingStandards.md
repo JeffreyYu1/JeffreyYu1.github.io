@@ -8,7 +8,7 @@ labels:
   - Language
   - Software Development
 ---
-<img class="ui medium right floated image" src="../CodingStandard.jpg">
+<img class="ui medium right floated image" src="../images/CodingStandard.jpg">
 
 ## Why Coding Standards Are Important.
   In most coding languages, there are a set of standards that most coders follow to provide clean code. If you write messy code, you might run into errors and won't know where the errors are if your code is messy. Also having clean code helps others understand what you are trying to do. Its like writing an essay and having it read/ reviewed by someone else. They can't help you improve your essay or understand what you are trying to write if they can't read your handwriting. Same thing goes for coding. If your code doesn't follow a set of universal standards, others might not know what you are trying to do. This leads to complications if you are coding in a group or giving your code to others. This all could have been avoided if the code followed coding standards. 
