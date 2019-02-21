@@ -21,7 +21,8 @@ labels:
 <img class="ui medium right floated image" src="../images/semantic.png">
 
 ## Semantic UI 
-   Out of the more famous UI Frameworks, the one that I worked with was Semantic UI. Semantic UI is a high end development framework that is powered by jQuery and LESS. One of benefits of this framework is that it is a free open source interface that is already used universally amongst many website developers. 
+   Out of the more famous UI Frameworks, the one that I worked with was Semantic UI. Semantic UI is a high end development framework that is powered by jQuery and LESS. One of benefits of this framework is that it is a free open source interface that is already used universally amongst many website developers. When using Semantic UI in my HTML code, I noticed how easier it is to create the same result in a different way. Semantic UI has classes that are very easy to use because they are easily identifiable. If you want a part of your menu to drop down, all you have to do is call the ui class for dropdown menu. This type of syntax was very easy to use compared to using the different grammer/syntax of regular HTML code. When using Semantic UI, I was able to make transitions and behaviours easier than regular HTML. Again with the dropdown menu, if you want to make the menu dropdown upon hover, you can go on the Semantic UI website library, find the code for that behavior and copy that to your code. Using Semantic UI also made styling my website easy and made my code look more clean. </br>
+   To finish this all off, I would highly recommend using an UI Framework when developing your website. It makes it better to create because you can make it fast, more efficient and it is easy to use. There are many UI Frameworks out there that is widely used, if you find one that you find enjoyable to use, you'll see that you can create websites with ease. 
  
 
 
