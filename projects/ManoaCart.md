@@ -2,14 +2,16 @@
 layout: project
 type: project
 image: images/EconomicsChallenge.png
-title: Economics Challenge
-permalink: projects/EconomicsChallenge
+title: ManoaCart Website
+permalink: projects/ManoaCart
 # All dates must be YYYY-MM-DD format!
-date: 2017-03-15
+date: 2019-05-01
 labels:
-  - Competition
-  - Economics
-summary: Teams of Four compete against other schools in the topics of Economics.
+  - Website
+  - Applications
+  - Coding
+  - Meteor
+summary: Had a small team of classmates to build a website application together as a final project in class. 
 ---
 
 <div class="ui small rounded images">
@@ -17,7 +19,7 @@ summary: Teams of Four compete against other schools in the topics of Economics.
   <img class="ui image" src="../images/Economics.png">
 </div>
 
-The Economics Challenge is a statewide competition where every highschool selects two teams of four students to represent them in the challenge. Leading up to the challenge, teams are expected to learn everything about Economics from Micro to Macro Economics. It is up to the team coach to decide how many days a week they wanna spend to study and test on the topics. When the day of the competition comes, students are to take two tests each of them an hour on Micro and Macro Economics. After totaling the scores, schools that made it to the top ten get to compete in the buzzer round. Here is a winner take all where a questioner gives two teams a question and whoever buzzes in and answer correctly gets the point. The team that wins the round moves up to challenge the next winner. First place winner here gets to represent the state in the countrywide competition. 
+In the class ICS 314 at the University of Manoa, the final project is to get into teams of three to five classmates and create a website application together. 
 
 For this challenge, our school had two teams. Each team had four students and one team was considered the varsity team, and the other a JV team. The competition had two leagues, the higher end is varsity (More in depth in the topics) and the other end, the JV (Topics are more in general. I was on the varsity team along with three of my classmates. We would meet once a week to get tested on different chapters in Economics and it is up to us to study the next chapters. During the actual competition, me and my teammates shared equal responsibility on completing the test. Our test (cannot reveal to in depth) mainly consists of different ways the economy is runned and how certain actions affect the economy. Unfortunately, our varsity did not make it to the buzzer round but our JV team did. Although our JV didn't win the buzzer, I was proud of our school reguardless. Our varsity team may have not placed, but I still had a fun time learning and competing against the higher end schools. 
 
