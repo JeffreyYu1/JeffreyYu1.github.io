@@ -9,7 +9,7 @@
     "website": "",
     "summary": "I am studying for a B.S. in Computer Science in the ICS Department at the University of Hawaii. I am expecting to graduate in Spring of 2021.",
     "location": {
-      "address": "",
+      "address": "1260 Richard Lane B#519",
       "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -28,7 +28,7 @@
       },
       {
         "network": "techhui",
-        "usetname": "Jeffrey Yu",
+        "username": "Jeffrey Yu",
         "url": "http://www.techhui.com/profile/JeffreyYu"
       }
     ]
