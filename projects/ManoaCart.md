@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Hompage.png
+image: images/Hompeage.jpg
 title: ManoaCart Website
 permalink: projects/ManoaCart
 # All dates must be YYYY-MM-DD format!
